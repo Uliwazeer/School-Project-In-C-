@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1711221058 source:c:\users\ali wazeer\desktop\school\main.cpp
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<cstring>
+	<dirent.h>
+	<fstream>
+	<process.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<sstream>
+	<time.h>
+	<typeinfo>
+	<windows.h>
+
